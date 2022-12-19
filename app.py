@@ -1,5 +1,4 @@
 from flask import *
-from sklearn.utlis import Bunch
 import pickle
 import numpy as np
 
